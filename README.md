@@ -20,8 +20,8 @@ This is a react project and it is part of Udacity Frontend Nanodegree course. Th
     mobile: download the expo go app and scan the QR code
 
 ## Screenshot
-  ![Welcome](./assets/Screenshots/Welcome.jpg)
-  ![Regions](./assets/Screenshots/ListofRegions.jpg.jpg)
+  ![Welcome](./assets/Screenshots/WelcomeScreen.png)
+  <!-- ![Regions](./assets/Screenshots/ListofRegions.jpg.jpg)
   ![New Customer](./assets/Screenshots/AddCustomer.jpg.jpg)
   ![Customer List](./assets/Screenshots/ShowCustomer.jpg.jpg)
-  ![Remind Customer](./assets/Screenshots/Notification.jpg.jpg)
+  ![Remind Customer](./assets/Screenshots/Notification.jpg.jpg) -->
